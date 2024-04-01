@@ -1,0 +1,9 @@
+style.css.external{
+    color: blue;
+}
+.int_external{
+    color: green;
+}
+.inline_internal_external{
+    color: yellow;
+}
